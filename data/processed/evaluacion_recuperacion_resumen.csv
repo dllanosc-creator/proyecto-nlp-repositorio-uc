@@ -1,0 +1,2 @@
+﻿cantidad_consultas_evaluadas,precision@5_promedio,recall@5_promedio,map@5_promedio,mrr_promedio,ndcg@5_promedio,fecha_evaluacion
+8,0.17500000000000002,0.5,0.3958333333333333,0.5086805555555556,0.4337964164834791,2026-05-29T23:49:02.278569

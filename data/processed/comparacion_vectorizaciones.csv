@@ -1,0 +1,4 @@
+﻿metodo,documentos,caracteristicas,elementos_no_cero,densidad_pct,similitud_vecino_promedio,similitud_vecino_mediana,precision_at_5,precision_at_10,mrr,ndcg_at_5,ndcg_at_10,hit_rate_at_5,hit_rate_at_10,consultas_evaluables,ranking_precision_5,ranking_mrr,ranking_ndcg_10
+count_unigramas,1199,4197,62920,1.2503,0.3886,0.376,0.2108,0.1752,0.4236,0.2878,0.3097,0.5573,0.6957,759,3,3,3
+tfidf_unigramas,1199,4197,62920,1.2503,0.2758,0.2553,0.2316,0.1912,0.439,0.3124,0.3364,0.61,0.7378,759,2,2,2
+tfidf_uni_bigramas,1199,6454,74313,0.9603,0.2767,0.2491,0.2501,0.2124,0.4757,0.3444,0.3796,0.6364,0.7852,759,1,1,1

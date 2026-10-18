@@ -1,0 +1,16 @@
+﻿metrica,valor
+Documentos totales,1199.0
+Consultas evaluables,759.0
+Consultas sin relevantes,440.0
+Cobertura evaluación,0.633
+Precision@5,0.1152
+Precision@10,0.0922
+Recall@5,0.1084
+Recall@10,0.1654
+MAP@5,0.1115
+MAP@10,0.1066
+MRR,0.2596
+nDCG@5,0.1562
+nDCG@10,0.1657
+HitRate@5,0.3781
+HitRate@10,0.4796

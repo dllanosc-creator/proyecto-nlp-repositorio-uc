@@ -1,0 +1,6 @@
+﻿topico,cantidad_documentos,promedio_peso_topico,terminos_principales,modelo_topico,fecha_calculo
+0,229,0.0716718883235265,"disertación, disertación académico, académico, colombia disertación, caso, colombia, caso colombia, caso disertación, seguridad, información, bogotá, bogotá colombia",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.170394
+1,39,0.24233433289056336,"colombiano siglo, xxi disertación, siglo, siglo xxi, xxi, colombiano, académico literatura, disertación académico, disertación, académico colombiano, literatura colombiano, académico",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.175368
+2,231,0.09488731667444865,"tributario, impuesto, fiscal, renta, impuesto renta, colombia, tributación, evasión, análisis, recaudo, régimen, contribuyente",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.181687
+3,449,0.06837150603390549,"modelo, dato, análisis, calidad, aprendizaje, clasificación, machine, sistema, learning, red, machine learning, técnica",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.186801
+4,440,0.06821982980574595,"social, mujer, vida, comunicación, experiencia, violencia, director, tutor, director tutor, relación, proceso, cuerpo",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.191906

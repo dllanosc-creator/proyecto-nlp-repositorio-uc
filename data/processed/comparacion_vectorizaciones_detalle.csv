@@ -1,0 +1,25 @@
+﻿modelo,consulta,documentos_relevantes,precision@5,recall@5,map@5,mrr,ndcg@5,cantidad_documentos,cantidad_terminos_vocabulario,fecha_evaluacion
+count_unigramas_coseno,bert,1,0.2,1.0,1.0,1.0,1.0,1388,14136,2026-10-04T00:18:23.071706
+count_unigramas_coseno,clasificación,2,0.2,0.5,0.5,1.0,0.6131471927654584,1388,14136,2026-10-04T00:18:23.082036
+count_unigramas_coseno,cliente,2,0.0,0.0,0.0,0.1,0.0,1388,14136,2026-10-04T00:18:23.093069
+count_unigramas_coseno,machine learning,3,0.0,0.0,0.0,0.041666666666666664,0.0,1388,14136,2026-10-04T00:18:23.102284
+count_unigramas_coseno,modelo predictivo,2,0.0,0.0,0.0,0.02631578947368421,0.0,1388,14136,2026-10-04T00:18:23.114524
+count_unigramas_coseno,red neuronal,2,0.0,0.0,0.0,0.14285714285714285,0.0,1388,14136,2026-10-04T00:18:23.126613
+count_unigramas_coseno,riesgo cardiovascular,2,0.2,0.5,0.25,0.5,0.38685280723454163,1388,14136,2026-10-04T00:18:23.178718
+count_unigramas_coseno,salud,2,0.0,0.0,0.0,0.02,0.0,1388,14136,2026-10-04T00:18:23.190373
+tfidf_unigramas_coseno,bert,1,0.2,1.0,1.0,1.0,1.0,1388,14136,2026-10-04T00:18:23.361215
+tfidf_unigramas_coseno,clasificación,2,0.2,0.5,0.1,0.2,0.23719771276929622,1388,14136,2026-10-04T00:18:23.373777
+tfidf_unigramas_coseno,cliente,2,0.0,0.0,0.0,0.125,0.0,1388,14136,2026-10-04T00:18:23.381533
+tfidf_unigramas_coseno,machine learning,3,0.0,0.0,0.0,0.058823529411764705,0.0,1388,14136,2026-10-04T00:18:23.390192
+tfidf_unigramas_coseno,modelo predictivo,2,0.0,0.0,0.0,0.043478260869565216,0.0,1388,14136,2026-10-04T00:18:23.398233
+tfidf_unigramas_coseno,red neuronal,2,0.0,0.0,0.0,0.16666666666666666,0.0,1388,14136,2026-10-04T00:18:23.408595
+tfidf_unigramas_coseno,riesgo cardiovascular,2,0.2,0.5,0.5,1.0,0.6131471927654584,1388,14136,2026-10-04T00:18:23.416399
+tfidf_unigramas_coseno,salud,2,0.0,0.0,0.0,0.015384615384615385,0.0,1388,14136,2026-10-04T00:18:23.426200
+tfidf_unigramas_bigramas_coseno,bert,1,0.2,1.0,0.5,0.5,0.6309297535714575,1388,103838,2026-10-04T00:18:24.081490
+tfidf_unigramas_bigramas_coseno,clasificación,2,0.0,0.0,0.0,0.125,0.0,1388,103838,2026-10-04T00:18:24.191642
+tfidf_unigramas_bigramas_coseno,cliente,2,0.0,0.0,0.0,0.1111111111111111,0.0,1388,103838,2026-10-04T00:18:24.298320
+tfidf_unigramas_bigramas_coseno,machine learning,3,0.0,0.0,0.0,0.05,0.0,1388,103838,2026-10-04T00:18:24.404257
+tfidf_unigramas_bigramas_coseno,modelo predictivo,2,0.0,0.0,0.0,0.043478260869565216,0.0,1388,103838,2026-10-04T00:18:24.505337
+tfidf_unigramas_bigramas_coseno,red neuronal,2,0.0,0.0,0.0,0.16666666666666666,0.0,1388,103838,2026-10-04T00:18:24.615180
+tfidf_unigramas_bigramas_coseno,riesgo cardiovascular,2,0.2,0.5,0.5,1.0,0.6131471927654584,1388,103838,2026-10-04T00:18:24.738043
+tfidf_unigramas_bigramas_coseno,salud,2,0.0,0.0,0.0,0.016666666666666666,0.0,1388,103838,2026-10-04T00:18:24.854697

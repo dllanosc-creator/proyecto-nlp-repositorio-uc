@@ -1,0 +1,10 @@
+﻿indicador,valor
+Total documentos,1388.0
+Tokens totales,115533.0
+Promedio tokens/documento,83.24
+Mediana tokens/documento,89.0
+Mínimo tokens,1.0
+Máximo tokens,271.0
+Documentos con >= 20 tokens,1201.0
+Documentos con < 20 tokens,187.0
+Porcentaje corpus apto para modelado,86.53

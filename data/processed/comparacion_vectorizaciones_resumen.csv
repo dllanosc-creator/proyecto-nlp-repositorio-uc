@@ -1,0 +1,4 @@
+﻿modelo,cantidad_consultas,cantidad_documentos,cantidad_terminos_vocabulario,precision_5_promedio,recall_5_promedio,map_5_promedio,mrr_promedio,ndcg_5_promedio
+count_unigramas_coseno,8,1388,14136,0.07500000000000001,0.25,0.21875,0.3538549498746867,0.25
+tfidf_unigramas_bigramas_coseno,8,1388,103838,0.05,0.1875,0.125,0.2516153381642512,0.1555096182921145
+tfidf_unigramas_coseno,8,1388,14136,0.07500000000000001,0.25,0.2,0.3261691340415765,0.2312931131918443
