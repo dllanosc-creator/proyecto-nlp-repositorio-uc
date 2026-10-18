@@ -97,10 +97,6 @@ st.markdown(
     """
     <style>
 
-    /* Ocultar cabecera superior de Streamlit */
-    header[data-testid="stHeader"] {
-        display: none;
-    }
 
     .block-container {
         padding-top: 1rem;
