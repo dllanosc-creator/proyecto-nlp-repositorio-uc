@@ -1,6 +1,6 @@
 # ============================================================
 # WEB APP FINAL
-# Analítica NLP del Repositorio Institucional
+# Analítica del Repositorio Institucional UC
 # Universidad Central
 #
 # FRONTEND STREAMLIT
