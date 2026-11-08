@@ -1,66 +1,66 @@
 ﻿cluster_kmeans,programa_academico,documentos,ranking_cluster
-0,Maestría en Analítica de Datos,86,1.0
-0,Carrera de Ingeniería Ambiental,2,2.0
-0,Carrera de Ingeniería Electrónica,2,3.0
-0,Carrera de Ingeniería Industrial,2,4.0
-0,Carrera de Matemáticas,2,5.0
-0,Carrera de Ingeniería de Sistemas,1,6.0
-0,Maestría en Bioingeniería y Nanotecnología,1,7.0
-1,Carrera de Estudios Musicales,47,1.0
-1,Maestría en Bioingeniería y Nanotecnología,8,2.0
-1,Carrera de Comunicación social y Periodismo,4,3.0
-1,Maestría en Analítica de Datos,3,4.0
-1,Carrera de Arte Dramático,1,5.0
-1,Carrera de Biología,1,6.0
-1,Carrera de Ingeniería Ambiental,1,7.0
-1,Carrera de Ingeniería Electrónica,1,8.0
-1,Carrera de Publicidad,1,9.0
-1,Maestría en Creación Literaria,1,10.0
-2,Carrera de Ingeniería Industrial,42,1.0
-2,Maestría en Analítica de Datos,38,2.0
-2,Carrera de Ingeniería Mecánica,30,3.0
-2,Maestría en Gestión de Organizaciones,29,4.0
-2,Carrera de Ingeniería Electrónica,21,5.0
-2,Carrera de Ingeniería de Sistemas,14,6.0
-2,Maestría en Aseguramiento y Auditoria de Información (Virtual),13,7.0
-2,Maestría en Bioingeniería y Nanotecnología,11,8.0
-2,Carrera de Derecho,7,9.0
-2,Carrera de Administración de Empresas,4,10.0
-3,Maestría en Tributación,179,1.0
-3,Carrera de Derecho,2,2.0
-3,Carrera de Economía,1,3.0
-3,Maestría en Aseguramiento y Auditoria de Información (Virtual),1,4.0
-4,Maestría en Creación Literaria,56,1.0
-4,Carrera de Creación Literaria,39,2.0
-4,Carrera de Cine,21,3.0
-4,Carrera de Arte Dramático,2,4.0
-4,Carrera de Comunicación social y Periodismo,2,5.0
-4,Carrera de Biología,1,6.0
-4,Maestría en Intervención en Sistemas Humanos,1,7.0
-5,Carrera de Comunicación social y Periodismo,108,1.0
-5,Carrera de Trabajo Social,20,2.0
-5,Carrera de Publicidad,17,3.0
-5,Carrera de Derecho,13,4.0
-5,Maestría en Intervención en Sistemas Humanos,8,5.0
-5,Maestría en Investigación en Problemas Sociales Contemporáneos,7,6.0
-5,Carrera de Ingeniería Industrial,5,7.0
-5,Maestría en Gestión de Organizaciones,5,8.0
-5,Carrera de Contaduría Pública,4,9.0
-5,Maestría en Analítica de Datos,4,10.0
-6,Carrera de Ingeniería Ambiental,94,1.0
-6,Carrera de Biología,64,2.0
-6,Maestría en Bioingeniería y Nanotecnología,15,3.0
-6,Carrera de Economía,7,4.0
-6,Carrera de Ingeniería Electrónica,4,5.0
-6,Carrera de Ingeniería Industrial,4,6.0
-6,Carrera de Ingeniería Mecánica,4,7.0
-6,Carrera de Comunicación social y Periodismo,3,8.0
-6,Carrera de Ingeniería de Sistemas,2,9.0
-6,Maestría en Economía Aplicada al Desarrollo,2,10.0
-7,Carrera de Arte Dramático,34,1.0
-7,Carrera de Estudios Musicales,7,2.0
-7,Carrera de Cine,5,3.0
-7,Carrera de Trabajo Social,1,4.0
-8,Carrera de Creación Literaria,25,1.0
-8,Maestría en Creación Literaria,8,2.0
-8,Carrera de Estudios Musicales,1,3.0
+0,maestría en analítica de datos,88,1.0
+0,carrera de ingeniería ambiental,2,2.0
+0,carrera de ingeniería electrónica,2,3.0
+0,carrera de ingeniería industrial,2,4.0
+0,carrera de matemáticas,2,5.0
+0,carrera de ingeniería de sistemas,1,6.0
+0,maestría en bioingeniería y nanotecnología,1,7.0
+1,carrera de estudios musicales,46,1.0
+1,maestría en bioingeniería y nanotecnología,8,2.0
+1,carrera de comunicación social y periodismo,5,3.0
+1,carrera de arte dramático,1,4.0
+1,carrera de biología,1,5.0
+1,carrera de creación literaria,1,6.0
+1,carrera de publicidad,1,7.0
+1,maestría en analítica de datos,1,8.0
+1,maestría en creación literaria,1,9.0
+1,maestría en estudios musicales,1,10.0
+2,carrera de ingeniería industrial,42,1.0
+2,maestría en analítica de datos,38,2.0
+2,carrera de ingeniería mecánica,31,3.0
+2,maestría en gestión de organizaciones,28,4.0
+2,carrera de ingeniería electrónica,22,5.0
+2,carrera de ingeniería de sistemas,14,6.0
+2,maestría en aseguramiento y auditoria de información (virtual),13,7.0
+2,maestría en bioingeniería y nanotecnología,12,8.0
+2,carrera de derecho,7,9.0
+2,maestría en tributación,5,10.0
+3,maestría en tributación,179,1.0
+3,carrera de derecho,2,2.0
+3,carrera de economía,1,3.0
+3,maestría en aseguramiento y auditoria de información (virtual),1,4.0
+4,maestría en creación literaria,56,1.0
+4,carrera de creación literaria,39,2.0
+4,carrera de cine,21,3.0
+4,carrera de arte dramático,2,4.0
+4,carrera de comunicación social y periodismo,2,5.0
+4,carrera de biología,1,6.0
+4,maestría en intervención en sistemas humanos,1,7.0
+5,carrera de comunicación social y periodismo,109,1.0
+5,carrera de trabajo social,20,2.0
+5,carrera de publicidad,17,3.0
+5,carrera de derecho,13,4.0
+5,maestría en intervención en sistemas humanos,8,5.0
+5,maestría en investigación en problemas sociales contemporáneos,7,6.0
+5,carrera de ingeniería industrial,5,7.0
+5,maestría en gestión de organizaciones,5,8.0
+5,carrera de contaduría pública,4,9.0
+5,maestría en analítica de datos,4,10.0
+6,carrera de ingeniería ambiental,95,1.0
+6,carrera de biología,64,2.0
+6,maestría en bioingeniería y nanotecnología,14,3.0
+6,carrera de economía,7,4.0
+6,carrera de ingeniería electrónica,4,5.0
+6,carrera de ingeniería industrial,4,6.0
+6,carrera de comunicación social y periodismo,3,7.0
+6,carrera de ingeniería mecánica,3,8.0
+6,maestría en economía aplicada al desarrollo,3,9.0
+6,carrera de ingeniería de sistemas,2,10.0
+7,carrera de arte dramático,34,1.0
+7,carrera de estudios musicales,7,2.0
+7,carrera de cine,5,3.0
+7,carrera de trabajo social,1,4.0
+8,carrera de creación literaria,25,1.0
+8,maestría en creación literaria,8,2.0
+8,carrera de estudios musicales,1,3.0

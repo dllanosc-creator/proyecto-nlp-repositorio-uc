@@ -1,6 +1,136 @@
-﻿topico,terminos_principales,modelo_topico,fecha_calculo
-0,"disertación, disertación académico, académico, colombia disertación, caso, colombia, caso colombia, caso disertación, seguridad, información, bogotá, bogotá colombia",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.170394
-1,"colombiano siglo, xxi disertación, siglo, siglo xxi, xxi, colombiano, académico literatura, disertación académico, disertación, académico colombiano, literatura colombiano, académico",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.175368
-2,"tributario, impuesto, fiscal, renta, impuesto renta, colombia, tributación, evasión, análisis, recaudo, régimen, contribuyente",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.181687
-3,"modelo, dato, análisis, calidad, aprendizaje, clasificación, machine, sistema, learning, red, machine learning, técnica",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.186801
-4,"social, mujer, vida, comunicación, experiencia, violencia, director, tutor, director tutor, relación, proceso, cuerpo",nmf_tfidf_ngram_1_2,2026-10-04T00:18:55.191906
+﻿topico,ranking,termino,peso
+0,1,social,0.831698
+0,2,comunicación,0.720129
+0,3,mujer,0.401946
+0,4,medio,0.355866
+0,5,digital,0.326073
+0,6,red social,0.300742
+0,7,representación,0.291397
+0,8,experiencia,0.28628
+0,9,aspecto,0.281533
+0,10,identidad,0.272092
+0,11,colombia,0.271863
+0,12,red,0.271201
+0,13,medio comunicación,0.269535
+0,14,discurso,0.268373
+0,15,comunicativo,0.267231
+1,1,colombiano siglo,0.892592
+1,2,siglo,0.875158
+1,3,siglo xxi,0.864457
+1,4,xxi,0.863626
+1,5,colombiano,0.505927
+1,6,literatura colombiano,0.428236
+1,7,xxi colombiano,0.417176
+1,8,xxi literatura,0.417176
+1,9,literatura,0.372816
+1,10,novela,0.332732
+1,11,novela colombiano,0.274071
+1,12,cuento,0.120497
+1,13,vida,0.108325
+1,14,cuento colombiano,0.101356
+1,15,poesía,0.099686
+2,1,tributario,0.682572
+2,2,impuesto,0.635947
+2,3,fiscal,0.439016
+2,4,renta,0.397868
+2,5,impuesto renta,0.310525
+2,6,colombia,0.289863
+2,7,ley,0.215048
+2,8,contribuyente,0.21213
+2,9,tributación,0.208829
+2,10,régimen,0.193916
+2,11,recaudo,0.192059
+2,12,análisis,0.190605
+2,13,evasión,0.189589
+2,14,económico,0.187117
+2,15,colombiano,0.17111
+3,1,modelo,0.551259
+3,2,dato,0.416438
+3,3,red,0.32652
+3,4,neuronal,0.313213
+3,5,red neuronal,0.312977
+3,6,clasificación,0.303333
+3,7,learning,0.297499
+3,8,machine,0.294526
+3,9,machine learning,0.284061
+3,10,aprendizaje,0.276868
+3,11,técnica,0.233307
+3,12,procesamiento,0.230933
+3,13,análisis,0.206918
+3,14,predictivo,0.195983
+3,15,procesamiento lenguaje,0.189077
+4,1,agua,0.313006
+4,2,suelo,0.251586
+4,3,especie,0.240797
+4,4,ambiental,0.236672
+4,5,cundinamarca,0.20288
+4,6,municipio,0.202418
+4,7,zona,0.170184
+4,8,cultivo,0.16421
+4,9,calidad,0.153743
+4,10,agrícola,0.15316
+4,11,tratamiento,0.141567
+4,12,hídrico,0.1413
+4,13,diversidad,0.139323
+4,14,sostenible,0.138277
+4,15,producción,0.133721
+5,1,gestión,0.3963
+5,2,sistema,0.367031
+5,3,empresa,0.366393
+5,4,seguridad,0.305685
+5,5,diseño,0.291599
+5,6,información,0.239884
+5,7,implementación,0.221417
+5,8,riesgo,0.216829
+5,9,informático,0.212735
+5,10,organización,0.196568
+5,11,sistema gestión,0.195485
+5,12,control,0.19461
+5,13,seguridad informático,0.192509
+5,14,seguridad información,0.190023
+5,15,gestión seguridad,0.186502
+6,1,musical,0.496357
+6,2,música,0.345549
+6,3,interpretación,0.296497
+6,4,teatral,0.223862
+6,5,formación,0.222102
+6,6,obra,0.216582
+6,7,creación,0.190968
+6,8,teatro,0.185165
+6,9,repertorio,0.169694
+6,10,interpretativo,0.168276
+6,11,actor,0.16466
+6,12,técnico,0.154859
+6,13,canto,0.151602
+6,14,lírico,0.151351
+6,15,arte,0.148843
+7,1,vida,0.346264
+7,2,él,0.280783
+7,3,historia,0.267704
+7,4,obra,0.255312
+7,5,mujer,0.234759
+7,6,cuento,0.226859
+7,7,vivir,0.206641
+7,8,violencia,0.197344
+7,9,novela,0.196754
+7,10,personaje,0.193446
+7,11,madre,0.183374
+7,12,memoria,0.178795
+7,13,amor,0.164266
+7,14,casa,0.162194
+7,15,muerte,0.158375
+8,1,bogotá,0.533056
+8,2,aire,0.385439
+8,3,bogotá colombia,0.371115
+8,4,calidad aire,0.328911
+8,5,ciudad,0.328583
+8,6,calidad,0.256575
+8,7,ciudad bogotá,0.220795
+8,8,contaminación,0.198904
+8,9,monitoreo,0.184257
+8,10,transporte,0.182429
+8,11,particulado,0.182408
+8,12,material particulado,0.182408
+8,13,concentración,0.173269
+8,14,colombia,0.165705
+8,15,material,0.152113

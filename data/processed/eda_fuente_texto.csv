@@ -1,4 +1,4 @@
 ﻿fuente_texto,documentos,promedio_tokens,mediana_tokens,minimo_tokens,maximo_tokens
-solo_titulo,110,7.55,7.0,1,19
-titulo_resumen_subjects,1094,100.87,102.0,10,271
-titulo_subjects,184,23.67,21.0,7,234
+solo_titulo,110,7.35,7.0,1,19
+titulo_resumen_subjects,1094,93.65,95.0,10,255
+titulo_subjects,184,23.26,21.0,7,212
