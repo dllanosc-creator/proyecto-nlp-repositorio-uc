@@ -1,6 +1,6 @@
 # ============================================================
 # WEB APP FINAL
-# Analítica del Repositorio Institucional UC
+# Analítica NLP del Repositorio Institucional
 # Universidad Central
 #
 # FRONTEND STREAMLIT
@@ -97,6 +97,10 @@ st.markdown(
     """
     <style>
 
+    /* Ocultar cabecera superior de Streamlit */
+    header[data-testid="stHeader"] {
+        display: none;
+    }
 
     .block-container {
         padding-top: 1rem;
