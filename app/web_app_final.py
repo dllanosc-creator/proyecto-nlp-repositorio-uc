@@ -78,7 +78,7 @@ from backend.model_service import (
 # ============================================================
 
 st.set_page_config(
-    page_title="Repositorio UC | Analítica NLP",
+    page_title="Repositorio UC | Analítica",
     page_icon=(
         str(LOGO_PATH)
         if LOGO_PATH.exists()
@@ -237,7 +237,7 @@ def mostrar_encabezado():
         st.markdown(
             """
             <div class="titulo-principal">
-                Analítica NLP del Repositorio Institucional
+                Analítica del Repositorio Institucional UC
             </div>
 
             <div class="subtitulo-principal">
